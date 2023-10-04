@@ -1,0 +1,12 @@
+{
+  "name": "serialtowsserver",
+  "version": "0.0.3",
+  "description": "A serialport-to-websocket server example",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-snap7": "^1.0.4",
+    "serialport": "^8.0.8",
+    "ws": "^7.2.1"
+  }
+}
